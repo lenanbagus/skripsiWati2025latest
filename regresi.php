@@ -313,7 +313,7 @@ if (isset($_POST['run_prediksi'])) {
 
             <?php if ($hasil_prediksi): ?>
                 <div class="alert alert-success mt-4 text-center py-4 border-2">
-                    <h5>Estimasi Populasi Tahun <?= $hasil_prediksi['tahun'] ?></h5>
+                    <h5>Prediksi Jumlah dan Pertumbuhan Penduduk Tahun <?= $hasil_prediksi['tahun'] ?></h5>
                     <h1 class="display-3 fw-bold text-success">
                         <?= number_format($hasil_prediksi['nilai'], 0, ',', '.') ?> <small class="h4">Jiwa</small>
                         <span class="<?= $change_color ?>" style="font-size: 0.5em;"> (<?= $change_text ?>)</span>

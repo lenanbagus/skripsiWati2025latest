@@ -50,9 +50,9 @@ if (isset($_POST['login'])) {
     <div class="container">
         <div class="row mb-4">
             <div class="col-12 text-center">
-                <img src="ypkp.png" alt="Logo Universitas Sanggabuana" class="img-fluid" style="max-height: 120px;">
-                <h2 class="mt-2 fw-bold">Universitas Sangga Buana YPKP</h2>
-                <p class="text-muted">Sistem Informasi Prediksi Lonjakan Penduduk</p>
+                <img src="logokab.png" alt="Logo Universitas Sanggabuana" class="img-fluid" style="max-height: 120px;">
+                <h2 class="mt-2 fw-bold">Dinas Kependudukan dan Pencatatan Sipil Kabupaten Bandung</h2>
+                <p class="text-muted">Aplikasi Prediksi Pertumbuhan Penduduk</p>
                 <hr style="width: 50%; margin: auto; border-top: 3px solid #0d6efd;">
             </div>
         </div>
